@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: P04-eCommerce-Application
+  annotations:
+    github.com/project-slug: priya-dharsinij/P04-eCommerce-Application
+spec:
+  type: other
+  lifecycle: unknown
